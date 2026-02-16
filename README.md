@@ -100,18 +100,7 @@ PostgreSQL  |  MySQL  |  Oracle  |  DuckDB  |  SQLite
 -  Successfully completed **3 professional internships** in software development and computer vision
 -  Built and deployed multiple production-ready applications
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-![Amarnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarnathSharma10&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
-
-
-</div>
 
 ## 🤝 Let's Connect
 
