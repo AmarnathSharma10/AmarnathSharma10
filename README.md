@@ -2,9 +2,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amarnath-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarnath-sharma-c-05a375320/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmarnathSharma10)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/amarnathsharma)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Amarnath0_o/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarnath.sharma0405@gmail.com)
 
 </div>
@@ -95,16 +95,16 @@ PostgreSQL  |  MySQL  |  Oracle  |  DuckDB  |  SQLite
 
 ## 🏆 Achievements
 
-- 🎯 **LeetCode**: Ranked among top **12%** globally with **200+ problems** solved
-- 📜 **Graph Theory Bootcamp**: Completed under Codeforces Master mentorship at AlgoUniversity
-- 💻 Successfully completed **3 professional internships** in software development and computer vision
-- 🚀 Built and deployed multiple production-ready applications
+-  **LeetCode**: Ranked among top **12%** globally with **200+ problems** solved
+-  **Graph Theory Bootcamp**: Completed under Codeforces Master mentorship at AlgoUniversity
+-  Successfully completed **3 professional internships** in software development and computer vision
+-  Built and deployed multiple production-ready applications
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![Amarnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmarnathSharma10&show_icons=true&theme=radical)
+![Amarnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarnathSharma10&layout=compact&theme=radical)
 
