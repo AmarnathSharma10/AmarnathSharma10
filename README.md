@@ -108,6 +108,9 @@ PostgreSQL  |  MySQL  |  Oracle  |  DuckDB  |  SQLite
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarnathSharma10&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+
+
 </div>
 
 ## 🤝 Let's Connect
