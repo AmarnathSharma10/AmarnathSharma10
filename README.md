@@ -112,7 +112,7 @@ I'm always interested in collaborating on innovative projects, especially in bac
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmarnathSharma10&show_icons=true&locale=en&layout=compact" alt="AmarnathSharma10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmarnathSharma10&show_icons=true&locale=en" alt="sdeygithubber" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmarnathSharma10&show_icons=true&locale=en" alt="AmarnathSharma10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmarnathSharma10&" alt="AmarnathSharma10" /></p>
   
